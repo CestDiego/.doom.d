@@ -1,0 +1,4 @@
+[submodule "themes/just_right"]
+    path = themes/just_right
+    url = git://github.com/cestdiego/just_right.git
+
